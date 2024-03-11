@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I love coding in Python and telling stories about data.  
 
-- 🔭 I’m currently working on: getting the data analysis - datascience certificate
+- 🔭 I’m currently working on: data analysis / data science certificate
 - 🌱 I’m currently learning: Python, Scikit-Learn, machine learning
 - 👯 I’m looking to collaborate on: data projects, data exploration
 - 🤔 I’m looking for help: with dataviz, transfer learning (deep learning)
