@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I love coding in Python and telling stories about data.  
 
 - 🔭 I’m currently working on: data analysis / data science certificate
-- 🌱 I’m currently learning: Python, Scikit-Learn, machine learning
+- 🌱 I’m currently learning: Dash, Power BI, Tableau
 - 👯 I’m looking to collaborate on: data projects, data exploration
 - 🤔 I’m looking for help: with dataviz, transfer learning (deep learning)
 - 💬 Ask me about: everything
@@ -53,7 +53,5 @@ I love coding in Python and telling stories about data.
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-
-<br>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimyxuan&hide_progress=true&theme=default" alt=thimyxuan />
