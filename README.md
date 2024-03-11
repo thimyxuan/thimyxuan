@@ -24,7 +24,7 @@ I love coding in Python and telling stories about data.
 - 💬 Ask me about: everything
 - 📫 How to reach me: portfolio coming soon
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I worked in a shop before coding. I'm a bunny lover. I'm interested in psychology
+- ⚡ Fun facts: I used to work in a shop. I'm a bunny lover. I'm interested in psychology
 
 #### Languages and tools:
 
