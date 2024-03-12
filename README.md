@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I love coding in Python and telling stories about data.  
 
 - 🔭 I’m currently working on: data analysis / data science certificate
-- 🌱 I’m currently learning: Dash (Plotly). I'm curious about Power BI and Tableau too.
+- 🌱 I’m currently learning: Dash, I'm curious about Power BI and Tableau too
 - 👯 I’m looking to collaborate on: data projects, data exploration
-- 🤔 I’m looking for help: with dataviz, transfer learning (deep learning)
+- 🤔 I’m looking for help: with dataviz, transfer learning in deep learning
 - 💬 Ask me about: everything
 - 📫 How to reach me: portfolio coming soon
 - 😄 Pronouns: she/her
