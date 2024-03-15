@@ -68,4 +68,10 @@ I love coding in Python and telling stories about data.
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35"/></a><br>
  
 <br>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimyxuan&hide_progress=true&theme=default" alt=thimyxuan />
+
+*My Github stats by [SashenJayathilaka](https://github.com/SashenJayathilaka/Awesome-Github-Readme-Generator)*
+
+<div>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimyxuan&layout=compact&theme=default" alt=thimyxuan />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=thimyxuan&show_icons=true&locale=en&theme=default" alt="thimyxuan" />
+</div>
