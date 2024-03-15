@@ -37,7 +37,7 @@ I love coding in Python and telling stories about data.
 <a href="https://numpy.org/doc/stable/user/whatisnumpy.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"/></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="37"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="43"/></a>
-<a href="https://plotly.com/graphing-libraries/" target="_blank" rel="noreferrer"><img src="https://avatars0.githubusercontent.com/u/5997976?s=400&amp;v=4" alt="plotly" width="33"/></a><br>
+<a href="https://plotly.com/graphing-libraries/" target="_blank" rel="noreferrer"><img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="42"/></a><br>
 
 <br>
 <p><i>Data science</i></p>
