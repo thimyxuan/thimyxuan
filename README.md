@@ -43,9 +43,9 @@ I love coding in Python and telling stories about data.
 
 <br>
 <p><i>Data science</i></p>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35"/></a>
-<a href="https://keras.io/about/" target="_blank" rel="noreferrer"><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/keras-avis-prix-alternatives-logiciel.webp" alt="keras" width="33" height="33"/></a><br>
+<a href="https://keras.io/about/" target="_blank" rel="noreferrer"><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/keras-avis-prix-alternatives-logiciel.webp" alt="keras" width="31"/></a><br>
 
 <br>
 <p><i>Project management / Deployment / Data collection</i></p>
