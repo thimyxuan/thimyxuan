@@ -31,7 +31,7 @@ I love coding in Python and telling stories about data.
 
   <p><i>Data analysis</i></p>
   <a href="https://www.anaconda.com/open-source" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="36" alt="anaconda logo"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://jupyter.org/assets/homepage/main-logo.svg" height="40" alt="jupyter logo"/></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://jupyter.org/assets/homepage/main-logo.svg" height="43" alt="jupyter logo"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40"/></a>
   <a href="https://numpy.org/doc/stable/user/whatisnumpy.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"/></a>
@@ -42,9 +42,9 @@ I love coding in Python and telling stories about data.
 
   <br>
   <p><i>Data science</i></p>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://keras.io/about/" target="_blank" rel="noreferrer"><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/keras-avis-prix-alternatives-logiciel.webp" alt="keras" width="35" height="35"/></a><br>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35"/></a>
+  <a href="https://keras.io/about/" target="_blank" rel="noreferrer"><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/keras-avis-prix-alternatives-logiciel.webp" alt="keras" width="33" height="33"/></a><br>
   
   <br>
   <p><i>Project management / Deployment / Data collection</i></p>
