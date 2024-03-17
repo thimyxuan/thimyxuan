@@ -74,19 +74,15 @@ I love coding in Python and telling stories about data.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" alt="javascript" width="42"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50"/></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35"/></a>
-<br>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35"/></a><br>
 <br>
 
+<div align="center" >
+ <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/stars.png" width="120"/>
+</div>
 <br>
 
 *My Github stats by [SashenJayathilaka](https://github.com/SashenJayathilaka/Awesome-Github-Readme-Generator)*
-
-<div align="center" >
- <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/pie.png" width="100"/>
-</div>
-<br>
-<br>
 <div>
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimyxuan&layout=compact&theme=default" alt=thimyxuan />
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=thimyxuan&show_icons=true&locale=en&theme=default" alt="thimyxuan" />
