@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
- <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/myframe.png" width="144"/>
+<div>
+ <img align="right" src="https://github.com/thimyxuan/personal-dropbox/blob/main/comet.png" width="144"/>
 </div>
 
 ###
