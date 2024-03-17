@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="right">
- <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Programmer_re_owql.png" alt="illustration developer" height="200"/>
-</div>
-
 ### Hi there! I'm Xuan.
 
 I love coding in Python and telling stories about data.  
@@ -29,6 +25,10 @@ I love coding in Python and telling stories about data.
 - 📫 How to reach me: portfolio coming soon
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I used to work in a shop 🛒 I'm addicted to puzzles 🧩 I'm interested in psychology 📚
+
+<div align="right">
+ <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Programmer_re_owql.png" alt="illustration developer" height="190"/>
+</div>
 
 ### Languages and tools I use:
 <p align="left">
