@@ -78,7 +78,7 @@ I love coding in Python and telling stories about data.
 <br>
 
 <div align="center" >
- <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/stars.png" width="120"/>
+ <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/notebook.png" width="160"/>
 </div>
 <br>
 
