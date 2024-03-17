@@ -30,7 +30,7 @@ I love coding in Python and telling stories about data.
 - 💬 Ask me about: anything, I'm happy to help
 - 📫 How to reach me: portfolio coming soon
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I used to work in a shop 🛒 I'm addicted to puzzles 🧩 I'm interested in psychology 📚
+- ⚡ Fun facts: I used to work in a Shop 🛒 I'm addicted to Puzzles 🧩 I'm interested in Psychology 📚
 
 ### Languages and tools I use:
 <p align="left">
