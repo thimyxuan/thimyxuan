@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
- <img align="right" src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Data_re_80ws.png" width="260"/>
+<div align="center">
+ <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/frame.png" width="144"/>
 </div>
 
 ###
@@ -31,6 +31,11 @@ I love coding in Python and telling stories about data.
 - 📫 How to reach me: portfolio coming soon
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I used to work in a shop 🛒 I'm addicted to puzzles 🧩 I'm interested in psychology 📚
+
+<br>
+<div align="center">
+ <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/code.png" width="100"/>
+</div>
 
 ### Languages and tools I use:
 <p align="left">
