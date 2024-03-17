@@ -80,13 +80,19 @@ I love coding in Python and telling stories about data.
 ### My Github stats:
 *by [SashenJayathilaka](https://github.com/SashenJayathilaka/Awesome-Github-Readme-Generator)*
 <div align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thimyxuan&theme=default" alt="thimyxuan" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimyxuan&layout=compact&theme=default" alt=thimyxuan />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thimyxuan&show_icons=true&locale=en&theme=default" alt="thimyxuan" />
 </div>
 
-### Top-contributed repo:
-![](https://github-contributor-stats.vercel.app/api?username=thimyxuan&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
-<img src="https://github.com/thimyxuan/personal-dropbox/blob/main/notebook.png" alt="notebook sticker" width="160"/>
+### Github trophies:
+<p align="left"> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thimyxuan&theme=default" alt="thimyxuan" /></a> 
+</p>
 
-### Github trophies
-![](https://github-profile-trophy.vercel.app/?username=thimyxuan&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+### My repo:
+![](https://github-contributor-stats.vercel.app/api?username=thimyxuan&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
+
+<div align="center">
+ <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/notebook.png" alt="notebook sticker" width="160"/>
+</div>
+
