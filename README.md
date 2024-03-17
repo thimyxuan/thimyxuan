@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
- <img align="right" src="https://github.com/thimyxuan/personal-dropbox/blob/main/comet.png" alt="comet sticker" width="144"/>
+ <img align="right" src="https://github.com/thimyxuan/personal-dropbox/blob/main/comet.png" alt="comet sticker" width="160"/>
 </div>
 
 ###
@@ -80,19 +80,20 @@ I love coding in Python and telling stories about data.
 ### My Github stats:
 *by [SashenJayathilaka](https://github.com/SashenJayathilaka/Awesome-Github-Readme-Generator)*
 <div align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thimyxuan&theme=default" alt="thimyxuan" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimyxuan&layout=compact&theme=default" alt=thimyxuan />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimyxuan&layout=compact&theme=default" alt=thimyxuan /> 
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thimyxuan&theme=default" alt="thimyxuan" />
 </div>
+
+### My last repo:
+![](https://github-contributor-stats.vercel.app/api?username=thimyxuan&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
 
 ### Github trophies:
 <p align="left"> 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thimyxuan&theme=default" alt="thimyxuan" /></a> 
 </p>
 
-### My repo:
-![](https://github-contributor-stats.vercel.app/api?username=thimyxuan&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
-
+<br>
 <div align="center">
- <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/notebook.png" alt="notebook sticker" width="160"/>
+ <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/stars.png" alt="stars sticker" width="144"/>
 </div>
 
