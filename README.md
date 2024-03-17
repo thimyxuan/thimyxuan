@@ -27,7 +27,7 @@ I love coding in Python and telling stories about data.
 - ⚡ Fun facts: I used to work in a shop 🛒 I'm addicted to puzzles 🧩 I'm interested in psychology 📚
 
 <div align="">
- <img align="right" src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Data_points_re_vkpq.png" alt="illustration developer" height="250"/>
+ <img align="right" src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Data_re_80ws.png" width="300"/>
 </div>
 
 ### Languages and tools I use:
