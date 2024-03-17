@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/frame.png" width="144"/>
+ <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/myframe.png" width="144"/>
 </div>
 
 ###
@@ -32,9 +32,8 @@ I love coding in Python and telling stories about data.
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I used to work in a shop 🛒 I'm addicted to puzzles 🧩 I'm interested in psychology 📚
 
-<br>
-<div align="center">
- <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/code.png" width="100"/>
+<div>
+ <img align="right" src="https://github.com/thimyxuan/personal-dropbox/blob/main/code.png" width="100"/>
 </div>
 
 ### Languages and tools I use:
