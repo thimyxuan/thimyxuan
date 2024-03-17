@@ -26,9 +26,10 @@ I love coding in Python and telling stories about data.
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I used to work in a shop 🛒 I'm addicted to puzzles 🧩 I'm interested in psychology 📚
 
-<div align="">
+<div>
  <img align="right" src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Data_re_80ws.png" width="300"/>
 </div>
+<br>
 
 ### Languages and tools I use:
 <p align="left">
