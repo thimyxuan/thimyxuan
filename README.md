@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="right">
- <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Growing_re_olpi.png" height="180"/>
+ <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Data_trends_re_2cdy.png" height="220"/>
 </div>
 
 ### Hi there! I'm Xuan.
@@ -84,6 +84,6 @@ I love coding in Python and telling stories about data.
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=thimyxuan&show_icons=true&locale=en&theme=default" alt="thimyxuan" />
 </div>
 
-<div align="right">
- <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Data_points_re_vkpq.png" height="240"/>
+<div align="center">
+ <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Growing_re_olpi.png" height="180"/>
 </div>
