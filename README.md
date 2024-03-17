@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="right">
- <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Data_points_re_vkpq.png" height="240"/>
-</div>
-
 ### Hi there! I'm Xuan.
 
 I love coding in Python and telling stories about data.  
@@ -82,4 +78,8 @@ I love coding in Python and telling stories about data.
 <div>
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimyxuan&layout=compact&theme=default" alt=thimyxuan />
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=thimyxuan&show_icons=true&locale=en&theme=default" alt="thimyxuan" />
+</div>
+
+<div align="center">
+ <img src="https://github.com/thimyxuan/personal-dropbox/blob/main/undraw_Data_points_re_vkpq.png" height="240"/>
 </div>
