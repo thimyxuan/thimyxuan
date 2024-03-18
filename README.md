@@ -81,7 +81,7 @@ I love coding in Python and telling stories about data.
 *by [SashenJayathilaka](https://github.com/SashenJayathilaka/Awesome-Github-Readme-Generator)*
 <div align="left">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimyxuan&layout=compact&theme=default" alt=thimyxuan /> 
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thimyxuan&theme=default" alt="thimyxuan" />
+ <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thimyxuan&theme=default" alt="thimyxuan" />-->
 </div>
 
 ### My last repo:
