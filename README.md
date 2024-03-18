@@ -49,7 +49,7 @@ I love coding in Python and telling stories about data.
 
 <br>
 <p><i>Data science</i></p>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35"/></a>
 <a href="https://keras.io/about/" target="_blank" rel="noreferrer"><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/keras-avis-prix-alternatives-logiciel.webp" alt="keras" width="31"/></a><br>
 
@@ -60,8 +60,8 @@ I love coding in Python and telling stories about data.
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" height="34"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42"/></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" height="39" alt="bitbucket logo"/></a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/61f830c0e555e517ed9c24fe/61f830c0e555e53a339c2d34_AboutTrello_logo.png" height="32" alt="trello logo"/></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" height="36" alt="bitbucket logo"/></a>
+<a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/61f830c0e555e517ed9c24fe/61f830c0e555e53a339c2d34_AboutTrello_logo.png" height="30" alt="trello logo"/></a>
 <br>
 
 <br>
