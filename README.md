@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-### Hi there! I'm Xuan.
+### Hi there! I'm Xuân.
 
 I love coding in Python and telling stories about data.  
 
