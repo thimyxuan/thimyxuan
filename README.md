@@ -28,7 +28,7 @@ I love coding in Python and telling stories about data.
 - 👯 I’m looking to collaborate on: data projects, data exploration 🕵️‍♂️
 - 🤔 I’m looking for help: with dataviz
 - 💬 Ask me about: anything, I'm happy to help
-- 📫 How to reach me: portfolio coming soon
+- 📫 How to reach me: DM me on [Linkedin](https://www.linkedin.com/in/thimyxuan/) or [Discord](https://discord.gg/thimyxuan)
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: I used to work in a Shop 🛒 I'm addicted to Puzzles 🧩 I'm interested in Psychology 📚
 
