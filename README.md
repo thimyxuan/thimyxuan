@@ -30,7 +30,7 @@ I love coding in Python and telling stories about data.
 - 💬 Ask me about: anything, I'm happy to help
 - 📫 How to reach me: DM me on [Linkedin](https://www.linkedin.com/in/thimyxuan/)
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I used to work in a Shop 🛒 I'm addicted to Puzzles 🧩 I'm interested in Psychology 📚
+- ⚡ Fun facts: I used to work in a Shop 🛒 I'm addicted to Puzzles 🧩 I'm fond of Psychology 📚
 
 ### Languages and tools I use:
 <p align="left">
