@@ -45,13 +45,14 @@ I love coding in Python and telling stories about data.
 <a href="https://plotly.com/graphing-libraries/" target="_blank" rel="noreferrer"><img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="42"/></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="37"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="43"/></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="38"/></a>
 <br>
 
 <br>
 <p><i>Data science</i></p>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35"/></a>
-<a href="https://keras.io/about/" target="_blank" rel="noreferrer"><img src="https://www.logiciels.pro/wp-content/uploads/2021/05/keras-avis-prix-alternatives-logiciel.webp" alt="keras" width="31"/></a><br>
+<a href="https://keras.io/about/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="31"/></a><br>
 
 <br>
 <p><i>Deployment / Data collection / Project management</i></p>
